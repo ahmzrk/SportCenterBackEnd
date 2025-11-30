@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amo\\source\\repos\\APIGetaway\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B97B0DE1-0726-4F02-9E6C-DD6C1199836A}|APIGetaway\\APIGetaway.csproj|c:\\users\\amo\\source\\repos\\apigetaway\\apigetaway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B97B0DE1-0726-4F02-9E6C-DD6C1199836A}|APIGetaway\\APIGetaway.csproj|solutionrelative:apigetaway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97B0DE1-0726-4F02-9E6C-DD6C1199836A}|APIGetaway\\APIGetaway.csproj|c:\\users\\amo\\source\\repos\\apigetaway\\apigetaway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97B0DE1-0726-4F02-9E6C-DD6C1199836A}|APIGetaway\\APIGetaway.csproj|solutionrelative:apigetaway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97B0DE1-0726-4F02-9E6C-DD6C1199836A}|APIGetaway\\APIGetaway.csproj|c:\\users\\amo\\source\\repos\\apigetaway\\apigetaway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B97B0DE1-0726-4F02-9E6C-DD6C1199836A}|APIGetaway\\APIGetaway.csproj|solutionrelative:apigetaway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97B0DE1-0726-4F02-9E6C-DD6C1199836A}|APIGetaway\\APIGetaway.csproj|c:\\users\\amo\\source\\repos\\apigetaway\\apigetaway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B97B0DE1-0726-4F02-9E6C-DD6C1199836A}|APIGetaway\\APIGetaway.csproj|solutionrelative:apigetaway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B97B0DE1-0726-4F02-9E6C-DD6C1199836A}|APIGetaway\\APIGetaway.csproj|c:\\users\\amo\\source\\repos\\apigetaway\\apigetaway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B97B0DE1-0726-4F02-9E6C-DD6C1199836A}|APIGetaway\\APIGetaway.csproj|solutionrelative:apigetaway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Amo\\source\\repos\\APIGetaway\\APIGetaway\\Dockerfile",
+              "RelativeDocumentMoniker": "APIGetaway\\Dockerfile",
+              "ToolTip": "C:\\Users\\Amo\\source\\repos\\APIGetaway\\APIGetaway\\Dockerfile",
+              "RelativeToolTip": "APIGetaway\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-28T08:01:37.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Amo\\source\\repos\\APIGetaway\\APIGetaway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "APIGetaway\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Amo\\source\\repos\\APIGetaway\\APIGetaway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "APIGetaway\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-19T13:19:52.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Amo\\source\\repos\\APIGetaway\\APIGetaway\\appsettings.json",
+              "RelativeDocumentMoniker": "APIGetaway\\appsettings.json",
+              "ToolTip": "C:\\Users\\Amo\\source\\repos\\APIGetaway\\APIGetaway\\appsettings.json",
+              "RelativeToolTip": "APIGetaway\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-19T13:19:15.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Amo\\source\\repos\\APIGetaway\\APIGetaway\\Program.cs",
+              "RelativeDocumentMoniker": "APIGetaway\\Program.cs",
+              "ToolTip": "C:\\Users\\Amo\\source\\repos\\APIGetaway\\APIGetaway\\Program.cs",
+              "RelativeToolTip": "APIGetaway\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T13:14:51.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "C:\\Users\\Amo\\source\\repos\\APIGetaway\\APIGetaway\\ocelot.json",
+              "RelativeDocumentMoniker": "APIGetaway\\ocelot.json",
+              "ToolTip": "C:\\Users\\Amo\\source\\repos\\APIGetaway\\APIGetaway\\ocelot.json",
+              "RelativeToolTip": "APIGetaway\\ocelot.json",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-19T13:07:47.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

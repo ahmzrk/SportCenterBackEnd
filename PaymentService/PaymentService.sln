@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{77F9F800-00E9-48A2-BAF0-BD53AAB25778}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{14154F30-E899-4F67-BCEF-4CCC966B71DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication2", "WebApplication2\WebApplication2.csproj", "{98CDE701-5BC7-4C99-93EF-85B880E26105}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77F9F800-00E9-48A2-BAF0-BD53AAB25778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F9F800-00E9-48A2-BAF0-BD53AAB25778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F9F800-00E9-48A2-BAF0-BD53AAB25778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F9F800-00E9-48A2-BAF0-BD53AAB25778}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14154F30-E899-4F67-BCEF-4CCC966B71DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14154F30-E899-4F67-BCEF-4CCC966B71DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14154F30-E899-4F67-BCEF-4CCC966B71DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14154F30-E899-4F67-BCEF-4CCC966B71DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98CDE701-5BC7-4C99-93EF-85B880E26105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98CDE701-5BC7-4C99-93EF-85B880E26105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98CDE701-5BC7-4C99-93EF-85B880E26105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98CDE701-5BC7-4C99-93EF-85B880E26105}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDDCF132-7C2B-4C66-BF31-4148F775DB46}
+	EndGlobalSection
+EndGlobal

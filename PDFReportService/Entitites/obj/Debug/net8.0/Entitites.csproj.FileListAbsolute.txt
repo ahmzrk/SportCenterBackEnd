@@ -1,0 +1,11 @@
+C:\Users\Amo\source\repos\PDFReportService\Entitites\bin\Debug\net8.0\Entitites.deps.json
+C:\Users\Amo\source\repos\PDFReportService\Entitites\bin\Debug\net8.0\Entitites.dll
+C:\Users\Amo\source\repos\PDFReportService\Entitites\bin\Debug\net8.0\Entitites.pdb
+C:\Users\Amo\source\repos\PDFReportService\Entitites\obj\Debug\net8.0\Entitites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amo\source\repos\PDFReportService\Entitites\obj\Debug\net8.0\Entitites.AssemblyInfoInputs.cache
+C:\Users\Amo\source\repos\PDFReportService\Entitites\obj\Debug\net8.0\Entitites.AssemblyInfo.cs
+C:\Users\Amo\source\repos\PDFReportService\Entitites\obj\Debug\net8.0\Entitites.csproj.CoreCompileInputs.cache
+C:\Users\Amo\source\repos\PDFReportService\Entitites\obj\Debug\net8.0\Entitites.dll
+C:\Users\Amo\source\repos\PDFReportService\Entitites\obj\Debug\net8.0\refint\Entitites.dll
+C:\Users\Amo\source\repos\PDFReportService\Entitites\obj\Debug\net8.0\Entitites.pdb
+C:\Users\Amo\source\repos\PDFReportService\Entitites\obj\Debug\net8.0\ref\Entitites.dll

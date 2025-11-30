@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amo\\source\\repos\\PaymentService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77F9F800-00E9-48A2-BAF0-BD53AAB25778}|WebAPI\\WebAPI.csproj|c:\\users\\amo\\source\\repos\\paymentservice\\webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{77F9F800-00E9-48A2-BAF0-BD53AAB25778}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14154F30-E899-4F67-BCEF-4CCC966B71DA}|Entities\\Entities.csproj|c:\\users\\amo\\source\\repos\\paymentservice\\entities\\messagebroker\\services\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14154F30-E899-4F67-BCEF-4CCC966B71DA}|Entities\\Entities.csproj|solutionrelative:entities\\messagebroker\\services\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14154F30-E899-4F67-BCEF-4CCC966B71DA}|Entities\\Entities.csproj|c:\\users\\amo\\source\\repos\\paymentservice\\entities\\messagebroker\\services\\irabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14154F30-E899-4F67-BCEF-4CCC966B71DA}|Entities\\Entities.csproj|solutionrelative:entities\\messagebroker\\services\\irabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F9F800-00E9-48A2-BAF0-BD53AAB25778}|WebAPI\\WebAPI.csproj|c:\\users\\amo\\source\\repos\\paymentservice\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{77F9F800-00E9-48A2-BAF0-BD53AAB25778}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F9F800-00E9-48A2-BAF0-BD53AAB25778}|WebAPI\\WebAPI.csproj|c:\\users\\amo\\source\\repos\\paymentservice\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F9F800-00E9-48A2-BAF0-BD53AAB25778}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CDE701-5BC7-4C99-93EF-85B880E26105}|WebApplication2\\WebApplication2.csproj|c:\\users\\amo\\source\\repos\\paymentservice\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CDE701-5BC7-4C99-93EF-85B880E26105}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CDE701-5BC7-4C99-93EF-85B880E26105}|WebApplication2\\WebApplication2.csproj|c:\\users\\amo\\source\\repos\\paymentservice\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98CDE701-5BC7-4C99-93EF-85B880E26105}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14154F30-E899-4F67-BCEF-4CCC966B71DA}|Entities\\Entities.csproj|c:\\users\\amo\\source\\repos\\paymentservice\\entities\\messagebroker\\paymentvalidationmessageconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14154F30-E899-4F67-BCEF-4CCC966B71DA}|Entities\\Entities.csproj|solutionrelative:entities\\messagebroker\\paymentvalidationmessageconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14154F30-E899-4F67-BCEF-4CCC966B71DA}|Entities\\Entities.csproj|c:\\users\\amo\\source\\repos\\paymentservice\\entities\\messagebroker\\paymentvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14154F30-E899-4F67-BCEF-4CCC966B71DA}|Entities\\Entities.csproj|solutionrelative:entities\\messagebroker\\paymentvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14154F30-E899-4F67-BCEF-4CCC966B71DA}|Entities\\Entities.csproj|c:\\users\\amo\\source\\repos\\paymentservice\\entities\\messagebroker\\rabbitmqsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14154F30-E899-4F67-BCEF-4CCC966B71DA}|Entities\\Entities.csproj|solutionrelative:entities\\messagebroker\\rabbitmqsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14154F30-E899-4F67-BCEF-4CCC966B71DA}|Entities\\Entities.csproj|c:\\users\\amo\\source\\repos\\paymentservice\\entities\\messagebroker\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14154F30-E899-4F67-BCEF-4CCC966B71DA}|Entities\\Entities.csproj|solutionrelative:entities\\messagebroker\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CDE701-5BC7-4C99-93EF-85B880E26105}|WebApplication2\\WebApplication2.csproj|c:\\users\\amo\\source\\repos\\paymentservice\\webapplication2\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CDE701-5BC7-4C99-93EF-85B880E26105}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F9F800-00E9-48A2-BAF0-BD53AAB25778}|WebAPI\\WebAPI.csproj|c:\\users\\amo\\source\\repos\\paymentservice\\webapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F9F800-00E9-48A2-BAF0-BD53AAB25778}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14154F30-E899-4F67-BCEF-4CCC966B71DA}|Entities\\Entities.csproj|c:\\users\\amo\\source\\repos\\paymentservice\\entities\\messagebroker\\rabbitmqqueues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14154F30-E899-4F67-BCEF-4CCC966B71DA}|Entities\\Entities.csproj|solutionrelative:entities\\messagebroker\\rabbitmqqueues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14154F30-E899-4F67-BCEF-4CCC966B71DA}|Entities\\Entities.csproj|c:\\users\\amo\\source\\repos\\paymentservice\\entities\\messagebroker\\paymentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14154F30-E899-4F67-BCEF-4CCC966B71DA}|Entities\\Entities.csproj|solutionrelative:entities\\messagebroker\\paymentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CDE701-5BC7-4C99-93EF-85B880E26105}|WebApplication2\\WebApplication2.csproj|c:\\users\\amo\\source\\repos\\paymentservice\\webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98CDE701-5BC7-4C99-93EF-85B880E26105}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CDE701-5BC7-4C99-93EF-85B880E26105}|WebApplication2\\WebApplication2.csproj|c:\\users\\amo\\source\\repos\\paymentservice\\webapplication2\\models\\paymentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CDE701-5BC7-4C99-93EF-85B880E26105}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\paymentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F9F800-00E9-48A2-BAF0-BD53AAB25778}|WebAPI\\WebAPI.csproj|c:\\users\\amo\\source\\repos\\paymentservice\\webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{77F9F800-00E9-48A2-BAF0-BD53AAB25778}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F9F800-00E9-48A2-BAF0-BD53AAB25778}|WebAPI\\WebAPI.csproj|c:\\users\\amo\\source\\repos\\paymentservice\\webapi\\views\\a.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F9F800-00E9-48A2-BAF0-BD53AAB25778}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\views\\a.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaymentValidationMessageConsumerService.cs",
+              "DocumentMoniker": "C:\\Users\\Amo\\source\\repos\\PaymentService\\Entities\\MessageBroker\\PaymentValidationMessageConsumerService.cs",
+              "RelativeDocumentMoniker": "Entities\\MessageBroker\\PaymentValidationMessageConsumerService.cs",
+              "ToolTip": "C:\\Users\\Amo\\source\\repos\\PaymentService\\Entities\\MessageBroker\\PaymentValidationMessageConsumerService.cs",
+              "RelativeToolTip": "Entities\\MessageBroker\\PaymentValidationMessageConsumerService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAADwvzUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T07:42:30.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Amo\\source\\repos\\PaymentService\\WebAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "WebAPI\\Dockerfile",
+              "ToolTip": "C:\\Users\\Amo\\source\\repos\\PaymentService\\WebAPI\\Dockerfile",
+              "RelativeToolTip": "WebAPI\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-28T08:01:06.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\Amo\\source\\repos\\PaymentService\\WebApplication2\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\Amo\\source\\repos\\PaymentService\\WebApplication2\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T06:43:59.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amo\\source\\repos\\PaymentService\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Amo\\source\\repos\\PaymentService\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T06:46:06.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRabbitMQPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\Amo\\source\\repos\\PaymentService\\Entities\\MessageBroker\\Services\\IRabbitMQPublisher.cs",
+              "RelativeDocumentMoniker": "Entities\\MessageBroker\\Services\\IRabbitMQPublisher.cs",
+              "ToolTip": "C:\\Users\\Amo\\source\\repos\\PaymentService\\Entities\\MessageBroker\\Services\\IRabbitMQPublisher.cs",
+              "RelativeToolTip": "Entities\\MessageBroker\\Services\\IRabbitMQPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T08:30:33.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RabbitMQPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\Amo\\source\\repos\\PaymentService\\Entities\\MessageBroker\\Services\\RabbitMQPublisher.cs",
+              "RelativeDocumentMoniker": "Entities\\MessageBroker\\Services\\RabbitMQPublisher.cs",
+              "ToolTip": "C:\\Users\\Amo\\source\\repos\\PaymentService\\Entities\\MessageBroker\\Services\\RabbitMQPublisher.cs",
+              "RelativeToolTip": "Entities\\MessageBroker\\Services\\RabbitMQPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T07:37:43.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Amo\\source\\repos\\PaymentService\\WebApplication2\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication2\\appsettings.json",
+              "ToolTip": "C:\\Users\\Amo\\source\\repos\\PaymentService\\WebApplication2\\appsettings.json",
+              "RelativeToolTip": "WebApplication2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-26T06:54:15.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Amo\\source\\repos\\PaymentService\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Amo\\source\\repos\\PaymentService\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-25T07:40:18.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Amo\\source\\repos\\PaymentService\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Amo\\source\\repos\\PaymentService\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T07:40:52.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Amo\\source\\repos\\PaymentService\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "C:\\Users\\Amo\\source\\repos\\PaymentService\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T06:45:18.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentValidation.cs",
+              "DocumentMoniker": "C:\\Users\\Amo\\source\\repos\\PaymentService\\Entities\\MessageBroker\\PaymentValidation.cs",
+              "RelativeDocumentMoniker": "Entities\\MessageBroker\\PaymentValidation.cs",
+              "ToolTip": "C:\\Users\\Amo\\source\\repos\\PaymentService\\Entities\\MessageBroker\\PaymentValidation.cs",
+              "RelativeToolTip": "Entities\\MessageBroker\\PaymentValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T07:58:11.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Amo\\source\\repos\\PaymentService\\Entities\\MessageBroker\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "Entities\\MessageBroker\\ResponseModel.cs",
+              "ToolTip": "C:\\Users\\Amo\\source\\repos\\PaymentService\\Entities\\MessageBroker\\ResponseModel.cs",
+              "RelativeToolTip": "Entities\\MessageBroker\\ResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T12:38:09.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RabbitMQSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Amo\\source\\repos\\PaymentService\\Entities\\MessageBroker\\RabbitMQSettings.cs",
+              "RelativeDocumentMoniker": "Entities\\MessageBroker\\RabbitMQSettings.cs",
+              "ToolTip": "C:\\Users\\Amo\\source\\repos\\PaymentService\\Entities\\MessageBroker\\RabbitMQSettings.cs",
+              "RelativeToolTip": "Entities\\MessageBroker\\RabbitMQSettings.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T07:34:58.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PaymentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Amo\\source\\repos\\PaymentService\\Entities\\MessageBroker\\PaymentViewModel.cs",
+              "RelativeDocumentMoniker": "Entities\\MessageBroker\\PaymentViewModel.cs",
+              "ToolTip": "C:\\Users\\Amo\\source\\repos\\PaymentService\\Entities\\MessageBroker\\PaymentViewModel.cs",
+              "RelativeToolTip": "Entities\\MessageBroker\\PaymentViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T06:59:27.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\Amo\\source\\repos\\PaymentService\\WebAPI\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\Amo\\source\\repos\\PaymentService\\WebAPI\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T11:02:07.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RabbitMQQueues.cs",
+              "DocumentMoniker": "C:\\Users\\Amo\\source\\repos\\PaymentService\\Entities\\MessageBroker\\RabbitMQQueues.cs",
+              "RelativeDocumentMoniker": "Entities\\MessageBroker\\RabbitMQQueues.cs",
+              "ToolTip": "C:\\Users\\Amo\\source\\repos\\PaymentService\\Entities\\MessageBroker\\RabbitMQQueues.cs",
+              "RelativeToolTip": "Entities\\MessageBroker\\RabbitMQQueues.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T11:08:38.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PaymentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Amo\\source\\repos\\PaymentService\\WebApplication2\\Models\\PaymentViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\PaymentViewModel.cs",
+              "ToolTip": "C:\\Users\\Amo\\source\\repos\\PaymentService\\WebApplication2\\Models\\PaymentViewModel.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\PaymentViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T06:46:29.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Amo\\source\\repos\\PaymentService\\WebAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Amo\\source\\repos\\PaymentService\\WebAPI\\appsettings.Development.json",
+              "RelativeToolTip": "WebAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-25T06:50:48.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "a.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amo\\source\\repos\\PaymentService\\WebAPI\\Views\\a.cshtml",
+              "RelativeDocumentMoniker": "WebAPI\\Views\\a.cshtml",
+              "ToolTip": "C:\\Users\\Amo\\source\\repos\\PaymentService\\WebAPI\\Views\\a.cshtml",
+              "RelativeToolTip": "WebAPI\\Views\\a.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T10:50:47.959Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

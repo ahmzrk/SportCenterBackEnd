@@ -1,0 +1,23 @@
+﻿@model PaymentViewModel
+
+<h2>Ödeme Ekranı</h2>
+
+<form asp-action="ProcessPayment" asp-controller="Payment" method="post">
+    <label>Kart Numarası</label>
+    <input type="text" name="CardNumber" class="form-control" />
+
+    <label>Son Kullanma Ay</label>
+    <input type="text" name="ExpireMonth" class="form-control" />
+
+    <label>Son Kullanma Yıl</label>
+    <input type="text" name="ExpireYear" class="form-control" />
+
+    <label>CVC</label>
+    <input type="text" name="Cvc" class="form-control" />
+
+    <label>Tutar</label>
+    <input type="number" name="Price" class="form-control" />
+
+    <button type="submit" class="btn btn-primary">Ödeme Yap</button>
+</form>
+

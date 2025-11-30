@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amo\\source\\repos\\PDFReportService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BBE30C3-4805-4658-9F76-69C6521CA507}|API\\API.csproj|c:\\users\\amo\\source\\repos\\pdfreportservice\\api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9BBE30C3-4805-4658-9F76-69C6521CA507}|API\\API.csproj|solutionrelative:api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3499A98-994E-4F72-9C5B-013ACCC9EFFC}|Infrastructure\\Business.csproj|c:\\users\\amo\\source\\repos\\pdfreportservice\\infrastructure\\utils\\membersreportdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3499A98-994E-4F72-9C5B-013ACCC9EFFC}|Infrastructure\\Business.csproj|solutionrelative:infrastructure\\utils\\membersreportdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3499A98-994E-4F72-9C5B-013ACCC9EFFC}|Infrastructure\\Business.csproj|c:\\users\\amo\\source\\repos\\pdfreportservice\\infrastructure\\concrete\\reportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3499A98-994E-4F72-9C5B-013ACCC9EFFC}|Infrastructure\\Business.csproj|solutionrelative:infrastructure\\concrete\\reportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3499A98-994E-4F72-9C5B-013ACCC9EFFC}|Infrastructure\\Business.csproj|c:\\users\\amo\\source\\repos\\pdfreportservice\\infrastructure\\abstract\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3499A98-994E-4F72-9C5B-013ACCC9EFFC}|Infrastructure\\Business.csproj|solutionrelative:infrastructure\\abstract\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BBE30C3-4805-4658-9F76-69C6521CA507}|API\\API.csproj|c:\\users\\amo\\source\\repos\\pdfreportservice\\api\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BBE30C3-4805-4658-9F76-69C6521CA507}|API\\API.csproj|solutionrelative:api\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DA4CD3-CB63-41D9-9AE0-F3A71C0D96BC}|DataAccess\\DataAccess.csproj|c:\\users\\amo\\source\\repos\\pdfreportservice\\dataaccess\\concrete\\memberapidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79DA4CD3-CB63-41D9-9AE0-F3A71C0D96BC}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\memberapidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DA4CD3-CB63-41D9-9AE0-F3A71C0D96BC}|DataAccess\\DataAccess.csproj|c:\\users\\amo\\source\\repos\\pdfreportservice\\dataaccess\\abstract\\imemberapidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79DA4CD3-CB63-41D9-9AE0-F3A71C0D96BC}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstract\\imemberapidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0216BC-AB5D-46B6-8C6C-C4A978EDB2CC}|Entitites\\Entitites.csproj|c:\\users\\amo\\source\\repos\\pdfreportservice\\entitites\\memberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0216BC-AB5D-46B6-8C6C-C4A978EDB2CC}|Entitites\\Entitites.csproj|solutionrelative:entitites\\memberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BBE30C3-4805-4658-9F76-69C6521CA507}|API\\API.csproj|c:\\users\\amo\\source\\repos\\pdfreportservice\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BBE30C3-4805-4658-9F76-69C6521CA507}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DA4CD3-CB63-41D9-9AE0-F3A71C0D96BC}|DataAccess\\DataAccess.csproj|c:\\users\\amo\\source\\repos\\pdfreportservice\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{79DA4CD3-CB63-41D9-9AE0-F3A71C0D96BC}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BBE30C3-4805-4658-9F76-69C6521CA507}|API\\API.csproj|c:\\users\\amo\\source\\repos\\pdfreportservice\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9BBE30C3-4805-4658-9F76-69C6521CA507}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BBE30C3-4805-4658-9F76-69C6521CA507}|API\\API.csproj|c:\\users\\amo\\source\\repos\\pdfreportservice\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9BBE30C3-4805-4658-9F76-69C6521CA507}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BBE30C3-4805-4658-9F76-69C6521CA507}|API\\API.csproj|c:\\users\\amo\\source\\repos\\pdfreportservice\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9BBE30C3-4805-4658-9F76-69C6521CA507}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MembersReportDocument.cs",
+              "DocumentMoniker": "C:\\Users\\Amo\\source\\repos\\PDFReportService\\Infrastructure\\Utils\\MembersReportDocument.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Utils\\MembersReportDocument.cs",
+              "ToolTip": "C:\\Users\\Amo\\source\\repos\\PDFReportService\\Infrastructure\\Utils\\MembersReportDocument.cs",
+              "RelativeToolTip": "Infrastructure\\Utils\\MembersReportDocument.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA5wEEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T18:43:49.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportManager.cs",
+              "DocumentMoniker": "C:\\Users\\Amo\\source\\repos\\PDFReportService\\Infrastructure\\Concrete\\ReportManager.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Concrete\\ReportManager.cs",
+              "ToolTip": "C:\\Users\\Amo\\source\\repos\\PDFReportService\\Infrastructure\\Concrete\\ReportManager.cs",
+              "RelativeToolTip": "Infrastructure\\Concrete\\ReportManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwCIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T13:29:39.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IReportService.cs",
+              "DocumentMoniker": "C:\\Users\\Amo\\source\\repos\\PDFReportService\\Infrastructure\\Abstract\\IReportService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Abstract\\IReportService.cs",
+              "ToolTip": "C:\\Users\\Amo\\source\\repos\\PDFReportService\\Infrastructure\\Abstract\\IReportService.cs",
+              "RelativeToolTip": "Infrastructure\\Abstract\\IReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T13:16:04.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MemberDto.cs",
+              "DocumentMoniker": "C:\\Users\\Amo\\source\\repos\\PDFReportService\\Entitites\\MemberDto.cs",
+              "RelativeDocumentMoniker": "Entitites\\MemberDto.cs",
+              "ToolTip": "C:\\Users\\Amo\\source\\repos\\PDFReportService\\Entitites\\MemberDto.cs",
+              "RelativeToolTip": "Entitites\\MemberDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T13:14:53.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMemberAPIDal.cs",
+              "DocumentMoniker": "C:\\Users\\Amo\\source\\repos\\PDFReportService\\DataAccess\\Abstract\\IMemberAPIDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Abstract\\IMemberAPIDal.cs",
+              "ToolTip": "C:\\Users\\Amo\\source\\repos\\PDFReportService\\DataAccess\\Abstract\\IMemberAPIDal.cs",
+              "RelativeToolTip": "DataAccess\\Abstract\\IMemberAPIDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T12:58:15.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MemberAPIDal.cs",
+              "DocumentMoniker": "C:\\Users\\Amo\\source\\repos\\PDFReportService\\DataAccess\\Concrete\\MemberAPIDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\MemberAPIDal.cs",
+              "ToolTip": "C:\\Users\\Amo\\source\\repos\\PDFReportService\\DataAccess\\Concrete\\MemberAPIDal.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\MemberAPIDal.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T12:58:14.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\Amo\\source\\repos\\PDFReportService\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
+              "ToolTip": "C:\\Users\\Amo\\source\\repos\\PDFReportService\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-28T12:57:38.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Amo\\source\\repos\\PDFReportService\\API\\Dockerfile",
+              "RelativeDocumentMoniker": "API\\Dockerfile",
+              "ToolTip": "C:\\Users\\Amo\\source\\repos\\PDFReportService\\API\\Dockerfile",
+              "RelativeToolTip": "API\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-28T08:01:23.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "API.csproj",
+              "DocumentMoniker": "C:\\Users\\Amo\\source\\repos\\PDFReportService\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "C:\\Users\\Amo\\source\\repos\\PDFReportService\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-20T07:03:27.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\Amo\\source\\repos\\PDFReportService\\API\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\Amo\\source\\repos\\PDFReportService\\API\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "API\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:50:21.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Amo\\source\\repos\\PDFReportService\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\Amo\\source\\repos\\PDFReportService\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:44:35.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Amo\\source\\repos\\PDFReportService\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Amo\\source\\repos\\PDFReportService\\API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-19T13:24:02.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Amo\\source\\repos\\PDFReportService\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Amo\\source\\repos\\PDFReportService\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-19T13:24:00.209Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

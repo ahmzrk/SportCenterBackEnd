@@ -1,0 +1,15 @@
+C:\Users\Amo\source\repos\PDFReportService\Worker\bin\Debug\net8.0\DataAccess.deps.json
+C:\Users\Amo\source\repos\PDFReportService\Worker\bin\Debug\net8.0\DataAccess.dll
+C:\Users\Amo\source\repos\PDFReportService\Worker\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\Amo\source\repos\PDFReportService\Worker\bin\Debug\net8.0\Entitites.dll
+C:\Users\Amo\source\repos\PDFReportService\Worker\bin\Debug\net8.0\Entitites.pdb
+C:\Users\Amo\source\repos\PDFReportService\Worker\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Amo\source\repos\PDFReportService\Worker\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amo\source\repos\PDFReportService\Worker\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Amo\source\repos\PDFReportService\Worker\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\Users\Amo\source\repos\PDFReportService\Worker\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Amo\source\repos\PDFReportService\Worker\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+C:\Users\Amo\source\repos\PDFReportService\Worker\obj\Debug\net8.0\DataAccess.dll
+C:\Users\Amo\source\repos\PDFReportService\Worker\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Users\Amo\source\repos\PDFReportService\Worker\obj\Debug\net8.0\DataAccess.pdb
+C:\Users\Amo\source\repos\PDFReportService\Worker\obj\Debug\net8.0\ref\DataAccess.dll

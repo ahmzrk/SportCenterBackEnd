@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yj0sVVuZMsA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Amo\\source\\repos\\PDFReportService\\Worker\\DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amo\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Amo\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,70 @@
+{
+  "Routes": [
+    // Ana Proje API'si için yönlendirme
+    {
+      // Dışarıdan gelen isteklerin yolu (API Gateway'e)
+      "UpstreamPathTemplate": "/api/members/{everything}",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ],
+
+      // İsteğin yönlendirileceği mikroservis adresi
+      "DownstreamPathTemplate": "/api/members/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44368 // Kendi ana projenizin HTTPS portunu yazın
+        }
+      ]
+    },
+    {
+      // Dışarıdan gelen isteklerin yolu (API Gateway'e)
+      "UpstreamPathTemplate": "/api/report/{everything}",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ],
+
+      // İsteğin yönlendirileceği mikroservis adresi
+      "DownstreamPathTemplate": "/api/report/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44368 // Kendi ana projenizin HTTPS portunu yazın
+        }
+      ]
+    },
+
+    // YENİ EKLEME: Ödeme Mikroservisi (PaymentController) için yönlendirme
+    {
+      "UpstreamPathTemplate": "/api/payment/{everything}",
+      "UpstreamHttpMethod": [ "POST" ], // Sadece POST metodu için
+
+      "DownstreamPathTemplate": "/api/payment/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44368 // PaymentController'ın çalıştığı portu yazın
+        }
+      ]
+    },
+
+    // PDF Raporlama Mikroservisi için yönlendirme
+    {
+      "UpstreamPathTemplate": "/api/Reports/{everything}", // reports (çoğul) olarak düzeltin
+      "UpstreamHttpMethod": [ "GET" ],
+
+      "DownstreamPathTemplate": "/api/Reports/{everything}", // reports (çoğul) olarak düzeltin
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44390
+        }
+      ]
+    }
+  ],
+
+  // Mikroservislerin adreslerinin keşfedilmesini sağlar, şimdilik sabit adres kullanıyoruz.
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:44358" // Kendi API Gateway projenizin portunu yazın
+  }
+}
