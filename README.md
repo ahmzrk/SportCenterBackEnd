@@ -91,7 +91,9 @@ Katmanlı yapı üzerine eklenen mikroservisler:
 🔧 Eklenen Mikroservisler
 Servis	Açıklama
 PDFService =	Üye bilgilerini PDF formatında oluşturan servis
+
 PaymentService = Iyzico ile ödeme işlemlerinin yönetildiği servis
+
 Notification Service	Mail gönderimi yapan servis
 🔀 Servis İletişimi
 
